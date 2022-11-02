@@ -17,14 +17,12 @@ h2 {
     margin-bottom: 20px;
 }
 
-.container{
-    max-height: 80%;
-    max-width: 50%;
-    margin: auto;
+.container {
     background: white;
-    border: 1ch solid black;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid black;
     border-radius: 10px;
-    
 }
 
 button {
